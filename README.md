@@ -1,2 +1,2 @@
 # spring boot email
-How do send an sample email through spring boot RestApi
+How to send an sample email through spring boot RestApi
